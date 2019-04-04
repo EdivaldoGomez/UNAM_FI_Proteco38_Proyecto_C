@@ -1,0 +1,13 @@
+
+V1.user
+123
+Eddy Gomez
+ventas
+1000
+
+V2.user
+123
+Adri Hernandez
+ventas
+1000
+
